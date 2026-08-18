@@ -1,0 +1,6 @@
+{
+  "name": "Tinkle Jewels - PHP E-Commerce Platform",
+  "description": "Production-ready Gen-Z PHP & MySQL e-commerce platform with customer storefront, admin dashboard, installer wizard, and cPanel deployable package.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
